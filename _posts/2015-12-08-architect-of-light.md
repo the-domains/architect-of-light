@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-08T16:38:55.157Z'
-dateModified: '2015-12-08T16:36:51.948Z'
+description: 'Commercial Photography  '
+datePublished: '2015-12-08T16:48:45.180Z'
+dateModified: '2015-12-08T16:48:40.764Z'
 title: Architect of Light
 author: []
 sourcePath: _posts/2015-12-08-architect-of-light.md
@@ -18,10 +19,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: architect-of-light/index.html
-_type: Article
+_type: Blurb
 
 ---
-null
-null
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cb11653b09119e9bbddefd050c829fbd17b6fdc.jpg)
+Architect Of Light
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14ac288-001d-4ece-bd3a-eea6402b42c2.jpg)
