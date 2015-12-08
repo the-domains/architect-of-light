@@ -1,6 +1,6 @@
 name: Architect of Light
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.74594
 typography_spectrum: 0.23143
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ff4c00'
-    - '#ffff30'
-    - '#692f06'
-    - '#ffba22'
-  brandStrength: 0
+    - '#1e1912'
+    - '#e4e5df'
+    - '#665547'
+    - '#0071a9'
+    - '#6bb0d5'
+  brandStrength: 0.5
   lightness: 0
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
