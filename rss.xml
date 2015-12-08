@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Architect of Light]]></title>
         <description><![CDATA[Architect of Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/architect-of-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 17:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Dec 2015 17:45:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/architect-of-light/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[RTS Awards]]></title>
-            <description><![CDATA[<article><h1>RTS Awards</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c000ce715499decc4e4798066751e81c759b7a80.jpg"></article>]]></description>
-            <link>undefinedrts-awards/index.html</link>
-            <guid isPermaLink="false">fd56a33c-0072-4367-84ec-dad91f302a88</guid>
-            <pubDate>Tue, 08 Dec 2015 17:30:01 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static1.squarespace.com/static/53b50a94e4b0d06a988fc1d6/t/5640b4dae4b09d10c399ca37/1448809717770/?format=750w">]]></description>
+            <link>https://thegrid.ai/architect-of-light/59042c72-1037-45e4-9344-a3b4174a420f/index.html</link>
+            <guid isPermaLink="false">59042c72-1037-45e4-9344-a3b4174a420f</guid>
+            <pubDate>Tue, 08 Dec 2015 17:42:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
