@@ -1,7 +1,7 @@
 name: Architect of Light
 favicon: null
-layout_spectrum: 0.37711717607453465
-typography_spectrum: 0.0713852965272963
+layout_spectrum: 0.83786
+typography_spectrum: 0.30608
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.44313449203036726
+  brandStrength: 0.5
   lightness: 0.3434086285997182
   saturation: 0.054357729153707623
   rhythmicContrast: 0.266318071866408
