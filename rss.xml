@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Architect of Light]]></title>
         <description><![CDATA[Architect of Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/architect-of-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 15:57:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 15:59:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/architect-of-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static1.squarespace.com/static/53b50a94e4b0d06a988fc1d6/t/5640b4dae4b09d10c399ca37/1464950837623/?format=750w">]]></description>
+            <link>https://thegrid.ai/architect-of-light/4d4bcdb7-ed95-4993-a225-eb835c6083b9/index.html</link>
+            <guid isPermaLink="false">4d4bcdb7-ed95-4993-a225-eb835c6083b9</guid>
+            <pubDate>Wed, 08 Jun 2016 15:59:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://ksr-ugc.imgix.net/assets/012/481/883/475f98c856c4c2ac68053c7d7db1d242_original.jpg?w=640&h=360&fit=fill&bg=F0EBE5&v=1464228091&auto=format&q=92&s=a0ce7280f1d26a4136f665d8d809b811">]]></description>
-            <link>undefinedebf4f4ef-feda-4efc-ba20-d4bbb3156e24/index.html</link>
+            <link>https://thegrid.ai/architect-of-light/ebf4f4ef-feda-4efc-ba20-d4bbb3156e24/index.html</link>
             <guid isPermaLink="false">ebf4f4ef-feda-4efc-ba20-d4bbb3156e24</guid>
             <pubDate>Wed, 08 Jun 2016 15:57:37 GMT</pubDate>
         </item>
